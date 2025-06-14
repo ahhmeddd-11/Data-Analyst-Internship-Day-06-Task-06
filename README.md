@@ -2,7 +2,7 @@
 
 ## Overview
 
-This task focuses on analyzing sales trends over time using SQL. The goal was to extract monthly revenue and order volume data from a e-commerce database.
+This task focuses on analyzing sales trends over time using SQL. The goal was to extract monthly revenue and order volume data from an e-commerce database.
 
 ## Tools Used
 
